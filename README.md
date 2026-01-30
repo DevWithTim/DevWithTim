@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, ich bin <dein Name>
 
-<!--
-**DevWithTim/DevWithTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Schüler • 🚀 Lernender Developer • 🧠 Neugierig auf Tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Über mich
+- 🎂 14 Jahre alt  
+- 🌱 Lerne aktuell: **Python, HTML/CSS/JS, CSS (Arduino)**
+- 🎯 Ziel: besser werden & eigene Projekte bauen  
+
+---
+
+## 🛠️ Tech Stack
+**Sprachen & Tools, mit denen ich mich beschäftige:**
+
+- 💡 Sprachen:  
+  `Python` `JavaScript` `HTML` `CSS`
+
+- 🔧 Tools:  
+  `Git` `GitHub` `VS Code`
+
+*(kein Stress – hier muss nichts „perfekt“ sein)*
+
+---
+
+## 📂 Projekte
+🧪 Ein paar Sachen, an denen ich gearbeitet habe oder gerade arbeite:
+
+- 🔹 **<Projektname>** – kurze Beschreibung  
+- 🔹 **<Projektname>** – kurze Beschreibung  
+- 🔹 **Mini-Projekte & Experimente**
+
+---
+
+## 📈 GitHub Stats
+*(rein optional – sieht aber cool aus)*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+> 🚧 Dieses Profil ist **Work in Progress** – ich lerne jeden Tag dazu.
