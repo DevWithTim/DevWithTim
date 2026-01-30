@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin <dein Name>
+# 👋 Hi, ich bin Tj4
 
 💻 Schüler • 🚀 Lernender Developer • 🧠 Neugierig auf Tech
 
