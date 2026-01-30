@@ -33,11 +33,4 @@
 
 ---
 
-## 📈 GitHub Stats
-*(rein optional – sieht aber cool aus)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 > 🚧 Dieses Profil ist **Work in Progress** – ich lerne jeden Tag dazu.
