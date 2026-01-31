@@ -5,7 +5,7 @@
 ---
 
 ## 🧩 Über mich
-- 🎂 14 Jahre alt  
+- 🎂 15 Jahre alt  
 - 🌱 Lerne aktuell: **Python, HTML/CSS/JS, CSS (Arduino)**
 - 🎯 Ziel: besser werden & eigene Projekte bauen  
 
