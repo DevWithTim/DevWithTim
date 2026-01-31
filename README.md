@@ -20,17 +20,7 @@
 - 🔧 Tools:  
   `Git` `GitHub` `VS Code`
 
-*(kein Stress – hier muss nichts „perfekt“ sein)*
-
 ---
 
-## 📂 Projekte
-🧪 Ein paar Sachen, an denen ich gearbeitet habe oder gerade arbeite:
-
-- 🔹 **<Projektname>** – kurze Beschreibung  
-- 🔹 **<Projektname>** – kurze Beschreibung  
-- 🔹 **Mini-Projekte & Experimente**
-
----
 
 > 🚧 Dieses Profil ist **Work in Progress** – ich lerne jeden Tag dazu.
